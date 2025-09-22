@@ -115,13 +115,13 @@ computed channel‑wise and averaged (the helper routine follows exactly this).
 ## 📸 Visuals
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2a8058b6-8648-4bdc-9c39-b05628aed68a" width="500" alt="Fig 1 "/>
+  <img src="https://github.com/user-attachments/assets/ebde0435-da9f-431c-945f-10e1d8fd4800" width="600" alt="Fig 1 "/>
   <br/>
   <sub><b>Fig 1.</b> Algorithm 1</sub>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/69a68e0b-f376-4198-b4f3-f40bb2d3e2d1" width="500" alt="Fig 3"/>
+  <img src="https://github.com/user-attachments/assets/3bd5fe8b-2c13-4d1b-a51a-423a863bd420" width="600" alt="Fig 3"/>
   <br/>
   <sub><b>Fig 2.</b> Algorithm 2</sub>
 </div>
