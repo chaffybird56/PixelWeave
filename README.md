@@ -115,15 +115,15 @@ computed channel‑wise and averaged (the helper routine follows exactly this).
 ## 📸 Visuals
 
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/2a8058b6-8648-4bdc-9c39-b05628aed68a)" width="500" alt="Fig 2 — Input, Bayer mosaic, and demosaiced result (Algorithm 2 example)"/>
+  <img src="https://github.com/user-attachments/assets/2a8058b6-8648-4bdc-9c39-b05628aed68a" width="500" alt="Fig 1 "/>
   <br/>
-  <sub><b>Fig 2.</b> Algorithm 1</sub>
+  <sub><b>Fig 1.</b> Algorithm 1</sub>
 </div>
 
 <div align="center">
-  <img src="(https://github.com/user-attachments/assets/69a68e0b-f376-4198-b4f3-f40bb2d3e2d1)" width="500" alt="Fig 3 — Another test scene showing texture handling"/>
+  <img src="https://github.com/user-attachments/assets/69a68e0b-f376-4198-b4f3-f40bb2d3e2d1" width="500" alt="Fig 3"/>
   <br/>
-  <sub><b>Fig 3.</b> Algorithm 2</sub>
+  <sub><b>Fig 2.</b> Algorithm 2</sub>
 </div>
 
 ---
