@@ -1,4 +1,4 @@
-%Ahmad Choudhry - 400312026- chouda27
+%
 
 % Read the input image and create a ground truth image
 input_image = imread('C:\\Users\\ahmad\\Downloads\\rose.jpg');
@@ -169,4 +169,5 @@ function rmse = calculate_rmse(ground_truth_img, demosaiced_image)
     mean_squared_error = mean(squared_error(:));
     % Calculate the square root of the mean squared error
     rmse = sqrt(mean_squared_error);
+
 end
